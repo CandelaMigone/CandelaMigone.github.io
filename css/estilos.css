@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Koulen&family=Montserrat:ital,wght@0,300;1,100&family=Neucha&family=Poppins:ital,wght@0,900;1,100;1,900&family=Quicksand:wght@300&family=Rock+Salt&display=swap');
+body{
+  background-color: black;
+  padding: 25px;
+}
+.contenedor{
+  font-family: 'Montserrat', cursive;
+  width: 100%;
+  color: white;
+  background-color:black;
+  margin: auto;
+}
+.encabezado{
+  font-family: 'Rock Salt', cursive;
+color: white;
+  text-align: center;
+}
+.imagenes{
+  text-align: center;
+  font-size: 12px;
+  padding: 20px;
+
+}
+.desarrollo{
+  color:white;
+  padding: 40px;
+}
+a{
+  color: red;
+}
+.video{
+  text-align: center;
+  padding:20px;
+}
+.gif{
+  text-align: center;
+  padding: 20px;
+}
+.item-m{
+  font-size: 20px;
+  text-align: center;
+    display: inline-block;
+    padding: 40px;
+}
+
+.item-m a{
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  padding: 10px;
+}
+.item-m a:hover{
+  color: white;
+  background-color: #DF0404;
+  text-decoration: none;
+  padding: 10px;
+}
+.imagen{
+  text-align: center;
+  font-size: 12px;
+  padding: 20px;
+}
+
+.pie{
+font-family: 'Rock Salt', cursive;
+    background-color:#DF0404;
+    text-align: center;
+    color: black;
+    height: 100%;
+    padding: 30px;
+}
